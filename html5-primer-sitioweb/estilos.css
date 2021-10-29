@@ -13,3 +13,13 @@ h2 {
 header, section, footer, aside, nav, article, hgroup {
     display: block;
 }
+
+body {
+    text-align: center;
+}
+
+.agrupar {
+    background-color: green;
+    width: 1090px;
+    margin: auto;
+}
